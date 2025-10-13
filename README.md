@@ -65,7 +65,7 @@ It explores trends in **movie genres, popularity, and release years**. The analy
  
  Data Enthusiast | Python | SQL | Ms.Excel | PowerBI | Tablue | Data Analytics
  
- 📧 sainisaurabh944.com
+ 📧 sainisaurabh944@gmail.com
  
  🔗 https://www.linkedin.com/in/saurabh-saini-2a8a6a176/
 
