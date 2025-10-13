@@ -54,13 +54,12 @@ netflix-data-analysis/
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
 
-✍️ Author
-
-Saurabh Saini
-
-Data Enthusiast | Python | SQL | Ms.Excel | PowerBI | Tablue | Data Analytics
-
-📧 sainisaurabh944.com
-
-🔗 https://www.linkedin.com/in/saurabh-saini-2a8a6a176/
+## ✍️ Author
+ Saurabh Saini
+ 
+ Data Enthusiast | Python | SQL | Ms.Excel | PowerBI | Tablue | Data Analytics
+ 
+ 📧 sainisaurabh944.com
+ 
+ 🔗 https://www.linkedin.com/in/saurabh-saini-2a8a6a176/
 
