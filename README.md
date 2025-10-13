@@ -25,7 +25,7 @@ It explores trends in **movie genres, popularity, and release years**. The analy
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Plotly (optional for interactive visuals)  
+- Anaconda Navigator
 
 ## 📂 Dataset
 - **File:** `mymoviedb.csv`  
@@ -45,14 +45,20 @@ It explores trends in **movie genres, popularity, and release years**. The analy
 
 ><img width="483" height="397" alt="image" src="https://github.com/user-attachments/assets/400369c0-302b-4bfd-95e5-56614c805907" /> <img width="443" height="417" alt="image" src="https://github.com/user-attachments/assets/c2d8e4e3-c200-478c-8cce-85d38af31e2f" /> <img width="527" height="360" alt="image" src="https://github.com/user-attachments/assets/14a39046-aee1-4636-948d-d6db9d7fc245" />
 
-
 ## 📁 File Structure
-netflix-data-analysis/
-│
-├── Netflix_project.ipynb # Jupyter Notebook with analysis
-├── mymoviedb.csv # Dataset
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+
+'''netflix-data-analysis/
+
+├── Netflix_project.ipynb
+
+├── mymoviedb.csv
+
+├── README.md
+
+├── requirements.txt
+
+└── visuals/'''
+
 
 ## ✍️ Author
  Saurabh Saini
