@@ -39,11 +39,28 @@ It explores trends in **movie genres, popularity, and release years**. The analy
 - **Year with most movies filmed:** 2020  
 
 ## 📊 Visualizations
-- Genre distribution bar chart  
-- Votes vs. Genre comparison  
+- Genre distribution bar chart   
 - Popularity trend line chart  
 - Yearly movie count graph  
 
-> Screenshots or GIFs of visuals can be added here for better presentation.
+><img width="483" height="397" alt="image" src="https://github.com/user-attachments/assets/400369c0-302b-4bfd-95e5-56614c805907" /> <img width="443" height="417" alt="image" src="https://github.com/user-attachments/assets/c2d8e4e3-c200-478c-8cce-85d38af31e2f" /> <img width="527" height="360" alt="image" src="https://github.com/user-attachments/assets/14a39046-aee1-4636-948d-d6db9d7fc245" />
+
 
 ## 📁 File Structure
+netflix-data-analysis/
+│
+├── Netflix_project.ipynb # Jupyter Notebook with analysis
+├── mymoviedb.csv # Dataset
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
+
+✍️ Author
+
+Saurabh Saini
+
+Data Enthusiast | Python | SQL | Ms.Excel | PowerBI | Tablue | Data Analytics
+
+📧 sainisaurabh944.com
+
+🔗 https://www.linkedin.com/in/saurabh-saini-2a8a6a176/
+
