@@ -63,7 +63,7 @@ It explores trends in **movie genres, popularity, and release years**. The analy
 ## ✍️ Author
  Saurabh Saini
  
- Data Enthusiast | Python | SQL | Ms.Excel | PowerBI | Tablue | Data Analytics
+ Data Enthusiast | Python | SQL | Ms.Excel | Power-BI | Tableau | Data Analytics
  
  📧 sainisaurabh944@gmail.com
  
